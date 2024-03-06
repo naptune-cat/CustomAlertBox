@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomAlertBox</string>
+    <string name="click_to_get_custom_alert_dialog_box">Click to get custom alert dialog box</string>
+</resources>
